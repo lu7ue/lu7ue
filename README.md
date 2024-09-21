@@ -1,14 +1,15 @@
-<h1>Hello，你好！<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=000000&width=435&height=65&lines=Hello%EF%BC%8C%E4%BD%A0%E5%A5%BD+%C3%92%CF%89%C3%93+...)](https://git.io/typing-svg)
 ```javascript
 const luyue = {
     pronouns: "She" | "Her",
     role: "an ICT second-year student",
     location: "the Netherlands",
+    email: "zhan0067@hz.nl",
     language: "zh_CN, en_US",
     funFact: "I love black tea and cats!"
 };
 ```
+---
 
 <h3>Things I code with</h3>
 <p>
