@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1>Hello，你好！<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<!--
-**Luyue28/Luyue28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const luyue = {
+    pronouns: "She" | "Her",
+    role: "an ICT second-year student",
+    location: "the Netherlands",
+    language: "zh_CN, en_US",
+    funFact: "I love black tea and cats!"
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Things I code with</h3>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-46a2f1?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" />  
+  <img alt=“TailwindCSS” src="https://img.shields.io/badge/-tailwindcss-46a2f1?style=flat-square&logo=tailwindcss&logoColor=white" /> 
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-46a2f1?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-46a2f1?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="php" src="https://img.shields.io/badge/-PHP-46a2f1?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-46a2f1?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-46a2f1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-46a2f1?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-46a2f1?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-46a2f1?style=flat-square&logo=nodejs&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-46a2f1?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-46a2f1?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+</p>
