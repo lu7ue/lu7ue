@@ -32,7 +32,3 @@ const luyue = {
 
 ---
 
-<h3>My recent commits</h3>
-<p>
-    <!-- START gadpp -->
-</p>
