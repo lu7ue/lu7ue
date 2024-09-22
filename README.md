@@ -9,6 +9,7 @@ const luyue = {
     funFact: "I love black tea and cats!"
 };
 ```
+
 ---
 
 <h3>Things I code with</h3>
@@ -27,4 +28,11 @@ const luyue = {
   <img alt="npm" src="https://img.shields.io/badge/-NPM-46a2f1?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-46a2f1?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+<h3>My recent commits</h3>
+<p>
+    <!-- START gadpp -->
 </p>
