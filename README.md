@@ -31,6 +31,15 @@ const luyue = {
 <h3>Weekly Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
+
+```txt
+Svelte       2 hrs 43 mins   ████████████▒░░░░░░░░░░░░   49.87 %
+YAML         1 hr 37 mins    ███████▒░░░░░░░░░░░░░░░░░   29.57 %
+JavaScript   44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+HTML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3>Week Streak</h3>
