@@ -10,8 +10,6 @@ const luyue = {
 };
 ```
 
----
-
 <h3>Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-46a2f1?style=flat-square&logo=html5&logoColor=white" />
@@ -30,16 +28,10 @@ const luyue = {
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
----
+<h3>Weekly Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-
-```txt
-Svelte       2 hrs 43 mins   ████████████▒░░░░░░░░░░░░   49.87 %
-YAML         1 hr 37 mins    ███████▒░░░░░░░░░░░░░░░░░   29.57 %
-JavaScript   44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-HTML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-```
-
 <!--END_SECTION:waka-->
+
+<h3>Week Streak</h3>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luyue28&theme=meta-light&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_total_contributions=true" alt="GitHub Streak" /></a>
