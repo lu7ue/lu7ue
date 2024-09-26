@@ -43,4 +43,4 @@ JSON         23 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <h3>Week Streak</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luyue28&theme=meta-light&hide_border=true&border_radius=3&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_total_contributions=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luyue28&theme=meta-light" alt="GitHub Streak" /></a>
