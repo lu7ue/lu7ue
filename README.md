@@ -6,6 +6,7 @@ const luyue = {
     location: "the Netherlands",
     email: "zhan0067@hz.nl",
     language: "zh_CN, en_US",
+    hobbies: "cooking, hiking and sleeping :) ",
     funFact: "I love black tea and cats!"
 };
 ```
