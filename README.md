@@ -34,7 +34,11 @@ const luyue = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   2 hrs 1 min     ██████████████████████░░░   88.06 %
+Markdown     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+JSON         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
