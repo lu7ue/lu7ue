@@ -34,11 +34,11 @@ const luyue = {
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 54 mins   █████████████▓░░░░░░░░░░░   54.63 %
-Svelte       2 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   37.85 %
-Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Svelte       3 hrs 33 mins   █████████████▓░░░░░░░░░░░   54.76 %
+JavaScript   2 hrs 40 mins   ██████████▒░░░░░░░░░░░░░░   41.17 %
+TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
