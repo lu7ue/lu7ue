@@ -34,7 +34,8 @@ const luyue = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java       1 hr 22 mins    █████████████████████▓░░░   86.78 %
+Markdown   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
 ```
 
 <!--END_SECTION:waka-->
