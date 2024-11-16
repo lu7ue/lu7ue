@@ -34,8 +34,9 @@ const luyue = {
 <!--START_SECTION:waka-->
 
 ```txt
-Java       1 hr 22 mins    █████████████████████▓░░░   86.78 %
-Markdown   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Java             2 hrs 31 mins   ███████████████████████░░   91.99 %
+Markdown         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
