@@ -44,4 +44,4 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <h3>Week Streak</h3>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luyue28&theme=meta-light" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lu7ue&theme=meta-light" alt="GitHub Streak" /></a>
