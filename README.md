@@ -34,7 +34,9 @@ const luyue = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Svelte       28 mins         ██████████████████▒░░░░░░   73.93 %
+CSS          9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
