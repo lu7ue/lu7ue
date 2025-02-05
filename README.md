@@ -27,10 +27,11 @@ const luyue = {
   <img alt="npm" src="https://img.shields.io/badge/-NPM-46a2f1?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-46a2f1?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/-React-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="sqlite" src="https://img.shields.io/badge/-Sqlite-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-46a2f1?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Sqlite" src="https://img.shields.io/badge/-Sqlite-46a2f1?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Godot" src="https://img.shields.io/badge/-Godot-46a2f1?style=flat-square&logo=godot&logoColor=white" />
 </p>
 
 <h3>Weekly Development Breakdown</h3>
