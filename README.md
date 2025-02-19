@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=000000&width=435&height=65&lines=Hello%EF%BC%8C%E4%BD%A0%E5%A5%BD+%C3%92%CF%89%C3%93+...)](https://git.io/typing-svg)
+<br>
+Explore [Teqden](https://github.com/orgs/Teqden/repositories) to see my codes, notes, and inspirations collections.
+<br>
 ```javascript
 const luyue = {
     pronouns: "She" | "Her",
