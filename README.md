@@ -42,7 +42,8 @@ const luyue = {
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   28 mins         █████████████████████████   100.00 %
+Svelte   1 hr 41 mins    ████████████████████████░   96.51 %
+CSS      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
