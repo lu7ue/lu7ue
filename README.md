@@ -42,9 +42,9 @@ const luyue = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python     6 hrs 40 mins   ████████████████▓░░░░░░░░   66.29 %
-Markdown   3 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   32.31 %
-CSV        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python     9 hrs 55 mins   ██████████████████▒░░░░░░   73.28 %
+Markdown   3 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
+CSV        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
