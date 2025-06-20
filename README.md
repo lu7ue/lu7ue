@@ -42,9 +42,8 @@ const luyue = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python       55 mins         ████████████████████▓░░░░   83.23 %
-JSON         11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python   14 mins         ██████████████░░░░░░░░░░░   56.45 %
+JSON     11 mins         ███████████░░░░░░░░░░░░░░   43.55 %
 ```
 
 <!--END_SECTION:waka-->
