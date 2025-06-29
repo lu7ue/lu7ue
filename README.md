@@ -42,8 +42,7 @@ const luyue = {
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 5 mins    ████████████████▒░░░░░░░░   65.75 %
-Python     1 hr 5 mins     ████████▓░░░░░░░░░░░░░░░░   34.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
