@@ -41,8 +41,8 @@ function whoAmI(uRCurious) {
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          3 hrs 17 mins   █████████████████████████   99.75 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+PHP          5 hrs 51 mins   █████████████████████████   99.86 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
