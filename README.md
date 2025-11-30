@@ -41,11 +41,11 @@ function whoAmI(uRCurious) {
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          6 hrs 2 mins    ███████████████████▒░░░░░   76.71 %
-Markdown     1 hr 41 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
-Python       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+PHP          6 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.59 %
+Python       3 hrs 25 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
+Markdown     3 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   24.45 %
+Git Config   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
