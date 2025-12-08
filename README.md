@@ -38,12 +38,16 @@ Feel free to check it out: [noteverse](https://github.com/lu7ue/noteverse) ♡
 <h3>Weekly Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%204%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-714.1%20thousand%20lines%20of%20code-blue)
 
-```text
-Time Zone: Europe/Amsterdam
+📊 **This Week I Spent My Time On** 
 
-Programming Languages: 
+```text
+🕑︎ Time Zone: Europe/Amsterdam
+
+💬 Programming Languages: 
 Python                   5 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.02 % 
 TypeScript               4 hrs               ███████░░░░░░░░░░░░░░░░░░   29.50 % 
 Markdown                 2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
@@ -52,6 +56,6 @@ Svelte                   24 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/12/2025 12:41:02 UTC
+ Last Updated on 08/12/2025 12:45:37 UTC
 <!--END_SECTION:waka-->
 
