@@ -40,12 +40,10 @@ Feel free to check it out: [noteverse](https://github.com/lu7ue/noteverse) ♡
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-714.1%20thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
-
 ```text
-🕑︎ Time Zone: Europe/Amsterdam
+Time Zone: Europe/Amsterdam
 
-💬 Programming Languages: 
+Programming Languages: 
 Python                   5 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.02 % 
 TypeScript               4 hrs               ███████░░░░░░░░░░░░░░░░░░   29.50 % 
 Markdown                 2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
