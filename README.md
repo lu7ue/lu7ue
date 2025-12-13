@@ -57,7 +57,7 @@ You'll get all my contact info from the card!
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tlYXdrdXRlZTc2dzJqa2p3MmFpNG1nMXR5MzA1enJkZzB3d3luYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dZX3AduGrY3uJ7qCsx/giphy.gif" height="200"></img>
 
-<h3>Weekly Development Breakdown</h3>
+<h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%209%20mins-blue)
