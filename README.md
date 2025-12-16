@@ -60,9 +60,9 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2046%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-812.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-763.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -70,14 +70,14 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               10 hrs 29 mins      █████████████░░░░░░░░░░░░   53.61 % 
-Markdown                 3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Python                   2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-PHP                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+JavaScript               10 hrs 44 mins      █████████████████░░░░░░░░   69.90 % 
+Markdown                 2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+JSON                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+PHP                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
- Last Updated on 15/12/2025 02:00:40 UTC
+ Last Updated on 16/12/2025 01:57:12 UTC
 <!--END_SECTION:waka-->
 
