@@ -62,7 +62,7 @@ You'll get all my contact info from the card!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2035%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-780.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-795.4%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -70,11 +70,11 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               6 hrs 5 mins        █████████████████████████   99.67 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+JavaScript               5 hrs 49 mins       █████████████████████████   99.65 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 
- Last Updated on 22/12/2025 02:02:10 UTC
+ Last Updated on 23/12/2025 01:57:31 UTC
 <!--END_SECTION:waka-->
 
