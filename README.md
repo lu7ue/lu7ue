@@ -60,7 +60,7 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-795.9%20thousand%20lines%20of%20code-blue)
 
@@ -70,10 +70,13 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 24 mins        ██████████████░░░░░░░░░░░   54.23 % 
+Markdown                 1 hr                ██████████░░░░░░░░░░░░░░░   39.19 % 
+CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 
- Last Updated on 27/12/2025 01:54:50 UTC
+ Last Updated on 28/12/2025 02:08:31 UTC
 <!--END_SECTION:waka-->
 
