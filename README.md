@@ -70,10 +70,10 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 3 hrs 13 mins       █████████████████████████   100.00 % 
+Markdown                 3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/02/2026 02:32:28 UTC
+ Last Updated on 26/02/2026 02:28:15 UTC
 <!--END_SECTION:waka-->
 
