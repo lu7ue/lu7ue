@@ -60,7 +60,7 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-798.42%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -70,14 +70,14 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Other                    53 mins             ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-Dart                     44 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-CMake                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Other                    1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+Dart                     1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+CSV                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+CMake                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Batchfile                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 ```
 
 
- Last Updated on 24/04/2026 02:57:35 UTC
+ Last Updated on 25/04/2026 02:47:13 UTC
 <!--END_SECTION:waka-->
 
