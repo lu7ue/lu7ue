@@ -70,14 +70,14 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Other                    1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Markdown                 1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Dart                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-CSV                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Markdown                 55 mins             █████████░░░░░░░░░░░░░░░░   35.33 % 
+CSV                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Other                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Dart                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Batchfile                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
- Last Updated on 30/04/2026 03:33:37 UTC
+ Last Updated on 01/05/2026 03:43:49 UTC
 <!--END_SECTION:waka-->
 
