@@ -70,11 +70,10 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JavaScript               5 mins              █████████████░░░░░░░░░░░░   53.96 % 
-Other                    4 mins              ████████████░░░░░░░░░░░░░   46.04 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/05/2026 03:36:28 UTC
+ Last Updated on 13/05/2026 03:45:06 UTC
 <!--END_SECTION:waka-->
 
