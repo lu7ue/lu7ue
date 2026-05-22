@@ -60,8 +60,6 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2055%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-799.37%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -74,6 +72,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/05/2026 04:04:37 UTC
+ Last Updated on 22/05/2026 03:59:42 UTC
 <!--END_SECTION:waka-->
 
