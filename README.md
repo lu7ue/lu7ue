@@ -62,16 +62,7 @@ You'll get all my contact info from the card!
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-799.37%20thousand%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/Amsterdam
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 22/05/2026 03:59:42 UTC
+ Last Updated on 23/05/2026 03:36:49 UTC
 <!--END_SECTION:waka-->
 
