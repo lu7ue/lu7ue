@@ -60,7 +60,9 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2027%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-799.37%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -73,7 +75,13 @@ You'll get all my contact info from the card!
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 03:29:33 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 28/07/2026 02:45:50 UTC
 <!--END_SECTION:waka-->
 
