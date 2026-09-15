@@ -64,7 +64,7 @@ You'll get all my contact info from the card!
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-812.08%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-814.54%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -72,11 +72,11 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       3 hrs 18 mins       ███████████░░░░░░░░░░░░░░   45.65 % 
-TypeScript               2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.32 % 
-Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Go                       5 hrs 46 mins       ███████████████████░░░░░░   76.97 % 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,6 +86,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/09/2026 04:05:10 UTC
+ Last Updated on 15/09/2026 04:03:59 UTC
 <!--END_SECTION:waka-->
 
