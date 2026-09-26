@@ -60,7 +60,7 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2026%20mins-blue?style=flat)
 
@@ -72,11 +72,11 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       7 hrs 32 mins       ███████████████████░░░░░░   75.38 % 
-Markdown                 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-CSV                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Go                       7 hrs 38 mins       ██████████████████████░░░   88.09 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+CSV                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,6 +86,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/09/2026 04:07:59 UTC
+ Last Updated on 26/09/2026 04:12:57 UTC
 <!--END_SECTION:waka-->
 
