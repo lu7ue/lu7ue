@@ -60,7 +60,7 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2026%20mins-blue?style=flat)
 
@@ -72,20 +72,34 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       7 hrs 38 mins       ██████████████████████░░░   88.09 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-CSV                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Go                       11 hrs 43 mins      ███████████████████████░░   92.20 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 mins (0.83%)
+
+✍️ 0 lines written by AI, 923 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 126 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/09/2026 04:12:57 UTC
+ Last Updated on 27/09/2026 04:27:59 UTC
 <!--END_SECTION:waka-->
 
