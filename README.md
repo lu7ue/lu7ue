@@ -64,7 +64,7 @@ You'll get all my contact info from the card!
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-816.76%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-817.11%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -72,34 +72,34 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       10 hrs 16 mins      ███████████████████████░░   91.38 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Go                       13 hrs 40 mins      ███████████████████████░░   92.37 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (0.94%)
+⏱ AI Coding Time: 11 mins (1.33%)
 
-✍️ 0 lines written by AI, 717 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,169 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 126 characters per prompt
+📄 Detailed Prompter — average 524 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 04:29:15 UTC
+ Last Updated on 29/09/2026 04:58:42 UTC
 <!--END_SECTION:waka-->
 
