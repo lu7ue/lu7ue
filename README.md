@@ -60,11 +60,11 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-817.11%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-817.51%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -72,19 +72,18 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       13 hrs 40 mins      ███████████████████████░░   92.37 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Go                       15 hrs 9 mins       ████████████████████████░   97.54 % 
+Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (1.33%)
+⏱ AI Coding Time: 11 mins (1.26%)
 
-✍️ 0 lines written by AI, 1,169 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,188 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -100,6 +99,6 @@ CSV                      3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/09/2026 04:58:42 UTC
+ Last Updated on 30/09/2026 04:45:16 UTC
 <!--END_SECTION:waka-->
 
