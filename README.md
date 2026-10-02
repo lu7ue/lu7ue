@@ -60,11 +60,11 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-818.16%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-818.36%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -72,34 +72,36 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       15 hrs 41 mins      ███████████████████████░░   91.82 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-TypeScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Go                       16 hrs 15 mins      ███████████████████████░░   91.48 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (1.15%)
+⏱ AI Coding Time: 23 mins (2.17%)
 
-✍️ 0 lines written by AI, 1,713 lines written by hand (0.0% AI-written)
+✍️ 16 lines written by AI, 1,414 lines written by hand (1.12% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 30,836 Input Tokens, 8,561 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.43 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
+
+Opus                     16 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 524 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.12% of written lines came from AI
+📝 Concise Prompter — average 237 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 04:57:38 UTC
+ Last Updated on 02/10/2026 04:48:03 UTC
 <!--END_SECTION:waka-->
 
