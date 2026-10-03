@@ -60,9 +60,9 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-818.36%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -72,19 +72,19 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       16 hrs 15 mins      ███████████████████████░░   91.48 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-TypeScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Go                       16 hrs 8 mins       ███████████████████████░░   91.43 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (2.17%)
+⏱ AI Coding Time: 23 mins (2.19%)
 
-✍️ 16 lines written by AI, 1,414 lines written by hand (1.12% AI-written)
+✍️ 16 lines written by AI, 1,413 lines written by hand (1.12% AI-written)
 
 🔤 30,836 Input Tokens, 8,561 Output Tokens
 
@@ -102,6 +102,6 @@ Opus                     16 lines            ███████████�
 ```
 
 
- Last Updated on 02/10/2026 04:48:03 UTC
+ Last Updated on 03/10/2026 04:30:49 UTC
 <!--END_SECTION:waka-->
 
