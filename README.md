@@ -64,7 +64,7 @@ You'll get all my contact info from the card!
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-818.36%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-818.39%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -72,36 +72,37 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       16 hrs 8 mins       ███████████████████████░░   91.43 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-TypeScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Go                       13 hrs 16 mins      ██████████████████████░░░   88.98 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+CSV                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (2.19%)
+⏱ AI Coding Time: 28 mins (3.16%)
 
-✍️ 16 lines written by AI, 1,413 lines written by hand (1.12% AI-written)
+✍️ 16 lines written by AI, 1,486 lines written by hand (1.07% AI-written)
 
-🔤 30,836 Input Tokens, 8,561 Output Tokens
+🔤 239,923 Input Tokens, 10,674 Output Tokens
 
-💵 $0.43 Estimated AI Cost This Week
+💵 $1.09 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 4 AI Sessions, 12 AI Prompts
 
 Opus                     16 lines            █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.12% of written lines came from AI
-📝 Concise Prompter — average 237 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.63% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.07% of written lines came from AI
+📝 Concise Prompter — average 137 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 99.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/10/2026 04:30:49 UTC
+ Last Updated on 04/10/2026 05:02:05 UTC
 <!--END_SECTION:waka-->
 
