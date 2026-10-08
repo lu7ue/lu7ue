@@ -60,7 +60,7 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs-blue?style=flat)
 
@@ -72,19 +72,18 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       6 hrs 12 mins       ████████████████████░░░░░   81.64 % 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Go                       4 hrs 46 mins       ███████████████████████░░   93.59 % 
+CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (4.99%)
+⏱ AI Coding Time: 22 mins (7.45%)
 
-✍️ 16 lines written by AI, 929 lines written by hand (1.69% AI-written)
+✍️ 16 lines written by AI, 363 lines written by hand (4.22% AI-written)
 
 🔤 239,923 Input Tokens, 10,674 Output Tokens
 
@@ -96,13 +95,13 @@ Opus                     16 lines            ███████████�
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.69% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.22% of written lines came from AI
 📝 Concise Prompter — average 65 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.44% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 05:04:46 UTC
+ Last Updated on 08/10/2026 05:15:27 UTC
 <!--END_SECTION:waka-->
 
