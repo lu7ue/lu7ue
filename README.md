@@ -72,36 +72,36 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       4 hrs 46 mins       ███████████████████████░░   93.59 % 
-CSV                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Go                       3 hrs 19 mins       ████████████████████████░   94.03 % 
+CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (7.45%)
+⏱ AI Coding Time: 11 mins (5.39%)
 
-✍️ 16 lines written by AI, 363 lines written by hand (4.22% AI-written)
+✍️ 0 lines written by AI, 330 lines written by hand (0.0% AI-written)
 
-🔤 239,923 Input Tokens, 10,674 Output Tokens
+🔤 209,087 Input Tokens, 2,113 Output Tokens
 
-💵 $1.09 Estimated AI Cost This Week
+💵 $0.82 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
-Opus                     16 lines            █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.22% of written lines came from AI
-📝 Concise Prompter — average 65 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 49 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 98.91% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 05:15:27 UTC
+ Last Updated on 09/10/2026 05:18:16 UTC
 <!--END_SECTION:waka-->
 
