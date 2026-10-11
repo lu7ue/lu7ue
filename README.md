@@ -64,7 +64,7 @@ You'll get all my contact info from the card!
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-820.37%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-821.54%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -72,36 +72,20 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       3 hrs 19 mins       ████████████████████████░   94.03 % 
-CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Go                       48 mins             ███████████████░░░░░░░░░░   60.92 % 
+HTML                     26 mins             ████████░░░░░░░░░░░░░░░░░   33.58 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (5.39%)
-
-✍️ 0 lines written by AI, 330 lines written by hand (0.0% AI-written)
-
-🔤 209,087 Input Tokens, 2,113 Output Tokens
-
-💵 $0.82 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 7 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 49 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/10/2026 05:03:14 UTC
+ Last Updated on 11/10/2026 04:51:50 UTC
 <!--END_SECTION:waka-->
 
