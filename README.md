@@ -72,10 +72,10 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       42 mins             ███████████████░░░░░░░░░░   61.20 % 
-HTML                     26 mins             ██████████░░░░░░░░░░░░░░░   38.62 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+HTML                     26 mins             █████████████░░░░░░░░░░░░   50.81 % 
+Go                       25 mins             ████████████░░░░░░░░░░░░░   48.94 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,6 +85,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/10/2026 06:06:16 UTC
+ Last Updated on 14/10/2026 04:09:12 UTC
 <!--END_SECTION:waka-->
 
