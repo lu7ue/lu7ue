@@ -60,32 +60,9 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%209%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-822.73%20thousand%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Europe/Amsterdam
-
-💬 Programming Languages: 
-Go                       10 hrs 21 mins      ███████████████████████░░   90.91 % 
-HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Java Properties          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 02/11/2026 05:07:33 UTC
+ Last Updated on 03/11/2026 05:54:12 UTC
 <!--END_SECTION:waka-->
 
