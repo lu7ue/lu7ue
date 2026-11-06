@@ -60,9 +60,9 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-822.73%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -72,18 +72,36 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       24 hrs 35 mins      ████████████████████████░   96.18 % 
-HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Go                       24 hrs 56 mins      ██████████████████████░░░   89.86 % 
+HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 41 mins (6.1%)
+
+✍️ 4,642 lines written by AI, 690 lines written by hand (87.06% AI-written)
+
+🔤 602,992 Input Tokens, 196,500 Output Tokens
+
+💵 $5.97 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 22 AI Prompts
+
+Sonnet                   4,643 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 87.06% of written lines came from AI
+📄 Detailed Prompter — average 998 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 19.14% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/11/2026 05:49:59 UTC
+ Last Updated on 06/11/2026 05:46:04 UTC
 <!--END_SECTION:waka-->
 
