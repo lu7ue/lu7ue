@@ -3,18 +3,18 @@
 <br>
  
 ```python
-class SoftwareEngineer:
+class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Luyue"
-        self.role = "Software Engineer"
+        self.role = "Software Developer"
         self.language_spoken = ["en_US", "zh_CN"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = SoftwareDeveloper()
 me.say_hi()
 ```
 
@@ -33,8 +33,6 @@ You'll get all my contact info from the card!
 <h3>Words & Works</h3>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG93bGV2dDdxcjF6dzgycWs1c3MzcXJ6dTQyN3NscDgyaDF6dnB3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1GU0dLAZwK0OcV9erB/giphy.gif" height="30">  Too lazy to copy your project structure into GPT? Try [Otter](https://github.com/lu7ue/otter) — export your file tree and selected code in one click. </img>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnM2NmJxenNwNmM0ZHAwdGhuNmhhNTJkaXdyYWV2ejVjcjltMWpweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PNfLO2PAhqvpYb7lUz/giphy.gif" height="32"> A [plugin](https://github.com/jrcz-data-science-lab/moodle-plugin-quiz-generator) for Moodle that generates question items with AI — fully integrated with Moodle and powered by content from teachers’ uploaded course materials. </img>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ2d2xzbXFpd2E2amtwbzZzcnZwb3g1bTVqNWdncjk4N3B4NnI0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WDTPWoKHT3bsAoIeq8/giphy.gif" height="30">  I share pretty much everything — food, books, notes, tutorials. Explore [noteverse](https://github.com/lu7ue/noteverse/issues) for all the posts living in Issues and markdown files. ♡ </img>
 
@@ -62,10 +60,6 @@ You'll get all my contact info from the card!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2053%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-822.73%20thousand%20lines%20of%20code-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -77,28 +71,6 @@ Python                   57 mins             █░░░░░░░░░░�
 HTML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 52 mins (9.83%)
-
-✍️ 4,642 lines written by AI, 493 lines written by hand (90.4% AI-written)
-
-🔤 723,355 Input Tokens, 289,799 Output Tokens
-
-💵 $7.76 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 22 AI Prompts
-
-Sonnet                   4,643 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 90.4% of written lines came from AI
-📄 Detailed Prompter — average 998 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 12.59% of changed lines were hand-edited
 ```
 
 
