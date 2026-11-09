@@ -60,20 +60,46 @@ You'll get all my contact info from the card!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs-blue?style=flat)
 
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2053%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-832.43%20thousand%20lines%20of%20code-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       16 hrs 12 mins      █████████████████████░░░░   84.68 % 
-Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Go                       6 hrs 8 mins        ██████████████░░░░░░░░░░░   55.80 % 
+Markdown                 2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Other                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Python                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 10 mins (37.92%)
+
+✍️ 5,223 lines written by AI, 203 lines written by hand (96.26% AI-written)
+
+🔤 1,287,096 Input Tokens, 752,671 Output Tokens
+
+💵 $27.39 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 54 AI Prompts
+
+Sonnet                   5,431 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.26% of written lines came from AI
+📄 Detailed Prompter — average 711 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 8.07% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/11/2026 05:12:59 UTC
+ Last Updated on 09/11/2026 05:24:55 UTC
 <!--END_SECTION:waka-->
 
