@@ -26,11 +26,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_AI_CODING: "False"
-          SHOW_AI_CODE_TIME: "False"
-          BAR_STYLE: "svg"
-          BAR_COLOR: "#90CAF9"
-          BAR_TRACK_COLOR: "#172f45"
-          BAR_RADIUS: "4"
-          TEXT_PRIMARY_COLOR: "#c9d1d9"
-          TEXT_SECONDARY_COLOR: "#8b949e"
-          
+          SHOW_AI_CODE_TIME: "False"         
