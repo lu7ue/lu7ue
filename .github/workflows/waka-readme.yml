@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_OS: "False"
+          SHOW_OS: "True"
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
@@ -27,4 +27,10 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_AI_CODING: "False"
           SHOW_AI_CODE_TIME: "False"
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#90CAF9"
+          BAR_TRACK_COLOR: "#172f45"
+          BAR_RADIUS: "4"
+          TEXT_PRIMARY_COLOR: "#c9d1d9"
+          TEXT_SECONDARY_COLOR: "#8b949e"
           
