@@ -58,11 +58,9 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%208%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-832.59%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-838.67%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -77,30 +75,7 @@ JSON                     29 mins             █░░░░░░░░░░�
 Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
-🤖 **AI Coding This Week** 
 
-```text
-⏱ AI Coding Time: 6 hrs 15 mins (61.19%)
-
-✍️ 2,483 lines written by AI, 382 lines written by hand (86.67% AI-written)
-
-🔤 1,541,779 Input Tokens, 696,544 Output Tokens
-
-💵 $25.98 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 103 AI Prompts
-
-Sonnet                   2,690 lines         █████████████████████████   99.93 % 
-GPT                      2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 86.67% of written lines came from AI
-📄 Detailed Prompter — average 805 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 19.06% of changed lines were hand-edited
-```
-
-
- Last Updated on 12/11/2026 06:27:05 UTC
+ Last Updated on 12/11/2026 22:34:06 UTC
 <!--END_SECTION:waka-->
 
