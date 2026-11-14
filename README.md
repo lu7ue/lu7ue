@@ -58,9 +58,9 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-838.67%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-840.57%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -68,18 +68,18 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               12 hrs 8 mins       █████████████████░░░░░░░░   66.15 % 
-Markdown                 3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-TSConfig                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+TypeScript               17 hrs 52 mins      ██████████████████░░░░░░░   72.94 % 
+Markdown                 4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+TSConfig                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  13 hrs 41 mins      ███████████████████░░░░░░   74.63 % 
-Mac                      4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Windows                  20 hrs 2 mins       ████████████████████░░░░░   81.78 % 
+Mac                      4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
 ```
 
 
- Last Updated on 13/11/2026 05:47:33 UTC
+ Last Updated on 14/11/2026 05:37:26 UTC
 <!--END_SECTION:waka-->
 
