@@ -68,18 +68,18 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               17 hrs 52 mins      ██████████████████░░░░░░░   72.94 % 
-Markdown                 4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+TypeScript               17 hrs 52 mins      ██████████████████░░░░░░░   72.89 % 
+Go                       2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-TSConfig                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TSConfig                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  20 hrs 2 mins       ████████████████████░░░░░   81.78 % 
-Mac                      4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Windows                  22 hrs 53 mins      ███████████████████████░░   93.37 % 
+Mac                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 
 
- Last Updated on 15/11/2026 05:35:05 UTC
+ Last Updated on 16/11/2026 05:34:07 UTC
 <!--END_SECTION:waka-->
 
