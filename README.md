@@ -58,9 +58,9 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-840.57%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-840.64%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -68,18 +68,17 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               17 hrs 52 mins      ██████████████████░░░░░░░   72.89 % 
-Go                       2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Markdown                 2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+TypeScript               17 hrs 53 mins      ██████████████████░░░░░░░   72.57 % 
+Go                       4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Markdown                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 TSConfig                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  22 hrs 53 mins      ███████████████████████░░   93.37 % 
-Mac                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Windows                  24 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/11/2026 05:34:07 UTC
+ Last Updated on 17/11/2026 07:11:50 UTC
 <!--END_SECTION:waka-->
 
