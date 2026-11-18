@@ -58,7 +58,7 @@ You'll get all my contact info from the card!
 <h3>Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-840.64%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -68,17 +68,18 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               17 hrs 53 mins      ██████████████████░░░░░░░   72.57 % 
-Go                       4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Markdown                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-TSConfig                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+TypeScript               17 hrs 53 mins      █████████████████░░░░░░░░   68.02 % 
+Go                       4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Markdown                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Python                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 💻 Operating System: 
-Windows                  24 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 56 mins      ████████████████████████░   94.79 % 
+Mac                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 ```
 
 
- Last Updated on 17/11/2026 07:11:50 UTC
+ Last Updated on 18/11/2026 06:36:06 UTC
 <!--END_SECTION:waka-->
 
