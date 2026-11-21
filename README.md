@@ -68,18 +68,18 @@ You'll get all my contact info from the card!
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               6 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
-Go                       5 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
-Markdown                 3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Go                       5 hrs 58 mins       █████████████░░░░░░░░░░░░   52.48 % 
+Markdown                 2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Python                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-Windows                  11 hrs 12 mins      ████████████████░░░░░░░░░   63.60 % 
-Mac                      6 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.40 % 
+Mac                      6 hrs 31 mins       ██████████████░░░░░░░░░░░   57.26 % 
+Windows                  4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.74 % 
 ```
 
 
- Last Updated on 20/11/2026 06:25:35 UTC
+ Last Updated on 21/11/2026 06:15:27 UTC
 <!--END_SECTION:waka-->
 
